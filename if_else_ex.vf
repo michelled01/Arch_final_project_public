@@ -1,0 +1,15 @@
+wire .temp0 -- 4
+wire [1]a = .temp0
+wire .temp1 -- 5
+wire [1]b = .temp1
+wire .temp2 -- 0
+wire .temp3 ?: a .temp2 test
+wire .temp4 ! a
+wire .temp5 && .temp4 b
+wire .temp6 && a b
+wire .temp7 -- 1
+wire .temp8 ?: .temp5 .temp7 .temp3
+wire .temp9 ! .temp6
+wire .temp10 -- 2
+wire .temp11 ?: .temp9 .temp10 .temp8
+reg test = .temp11
