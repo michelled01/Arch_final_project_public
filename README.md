@@ -1,14 +1,14 @@
 
 # Arch-final-project
-***¡¡¡VISUALIZING VERILOG!!!***
+***VISUALIZING VERILOG***
 
 # Project Goals and Description
 
 Our team consists of Michelle Ding, Jasper Lee, Luke Lu, and Cooper Wilk.
 
-We plan to make a fully-functional Verilog interpreter and visualizer to display Verilog circuits.
+We designed a fully-functional Verilog interpreter and visualizer to display Verilog circuits.
 
-The end goal is to see it run on our pipelined preprocessor.
+We achieved our end goal of sucessfully applying it to our pipelined preprocessor.
 
 # Verifun
 - Parser: Parses a “.v” Verilog file into intermediate Verifun™ format.
