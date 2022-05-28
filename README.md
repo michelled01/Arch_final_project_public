@@ -8,7 +8,7 @@ Our team consists of Michelle Ding, Jasper Lee, Luke Lu, and Cooper Wilk.
 
 We designed a fully-functional Verilog interpreter and visualizer to display Verilog circuits.
 
-We achieved our end goal of sucessfully applying it to our pipelined preprocessor.
+We achieved our end goal of using this to visualize our pipelined preprocessor.
 
 # Verifun
 - Parser: Parses a “.v” Verilog file into intermediate Verifun™ format.
